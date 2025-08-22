@@ -1,6 +1,5 @@
-<!DOCTYPE html>
 theme: jekyll-theme-minimal
-title: Octocat's homepage
+title: Adamkin's homepage
 description: Bookmark this to keep an eye on my project updates!
 
 <html lang="en">
