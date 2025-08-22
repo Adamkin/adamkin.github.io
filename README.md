@@ -64,7 +64,7 @@
                     </div>
                     <div>
                         <h3 class="font-bold text-lg">Action</h3>
-                        <p>The main thing you do. You get **one** Action. Common choices include:</p>
+                        <p>The main thing you do. You get <b>one</b> Action. Common choices include:</p>
                         <ul class="list-disc list-inside mt-2 space-y-1 pl-2 text-stone-700">
                             <li><strong class="font-semibold">Attack:</strong> Swing your sword or fire your bow.</li>
                             <li><strong class="font-semibold">Cast a Spell:</strong> Use a spell that has a casting time of 1 Action.</li>
@@ -76,11 +76,11 @@
                     </div>
                     <div>
                         <h3 class="font-bold text-lg">Bonus Action</h3>
-                        <p>A quick, extra thing you can do, but only if a spell or class feature specifically says you can. You get **one** Bonus Action.</p>
+                        <p>A quick, extra thing you can do, but only if a spell or class feature specifically says you can. You get <b>one</b> Bonus Action.</p>
                     </div>
                     <div>
                         <h3 class="font-bold text-lg">Reaction</h3>
-                        <p>A special action taken in response to a trigger, even when it's not your turn. You get **one** Reaction per round. The most common is an "Opportunity Attack."</p>
+                        <p>A special action taken in response to a trigger, even when it's not your turn. You get <b>one</b> Reaction per round. The most common is an "Opportunity Attack."</p>
                     </div>
                 </div>
             </section>
@@ -91,15 +91,15 @@
                 <div class="space-y-4">
                     <div>
                         <h3 class="font-bold text-lg">Attack Rolls</h3>
-                        <p>Roll a **d20** + your attack bonus. If the total equals or exceeds the enemy's Armor Class (AC), your attack hits!</p>
+                        <p>Roll a <b>d20</b> + your attack bonus. If the total equals or exceeds the enemy's Armor Class (AC), your attack hits!</p>
                     </div>
                     <div>
                         <h3 class="font-bold text-lg">Ability Checks</h3>
-                        <p>Used for tasks like climbing, sneaking, or persuading. Roll a **d20** + your relevant ability modifier (e.g., Strength for climbing).</p>
+                        <p>Used for tasks like climbing, sneaking, or persuading. Roll a <b>d20</b> + your relevant ability modifier (e.g., Strength for climbing).</p>
                     </div>
                     <div>
                         <h3 class="font-bold text-lg">Saving Throws</h3>
-                        <p>Used to resist spells or harmful effects. Roll a **d20** + your saving throw bonus. You are usually trying to avoid a negative effect.</p>
+                        <p>Used to resist spells or harmful effects. Roll a <b>d20</b> + your saving throw bonus. You are usually trying to avoid a negative effect.</p>
                     </div>
                     <div>
                         <h3 class="font-bold text-lg">Damage Rolls</h3>
@@ -114,7 +114,7 @@
                 <div class="space-y-4">
                     <div>
                         <h3 class="font-bold text-lg">Advantage & Disadvantage</h3>
-                        <p>If you have **Advantage**, roll two d20s and take the **higher** result. If you have **Disadvantage**, roll two d20s and take the **lower** result. They cancel each other out.</p>
+                        <p>If you have <b>Advantage</b> roll two d20s and take the <b>higher</b> result. If you have <b>Disadvantage</b> roll two d20s and take the <b>lower</b> result. They cancel each other out.</p>
                     </div>
                     <div>
                         <h3 class="font-bold text-lg">Inspiration</h3>
