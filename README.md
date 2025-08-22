@@ -1,7 +1,3 @@
-theme: jekyll-theme-minimal
-title: Adamkin's homepage
-description: Bookmark this to keep an eye on my project updates!
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
